@@ -7,3 +7,4 @@
 --floatpoint_model_test:test model khi chưa quantized.<br>
 --model.py:build model VAE.<br>
 --train.py:thực hiện train model.<br>
+--link download dataset:https://www.kaggle.com/code/ipythonx/mvtec-ad-anomaly-detection-with-anomalib-library/input.<br>
